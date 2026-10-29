@@ -1,0 +1,16 @@
+
+# Node.js dependencies and build output
+frontend/node_modules/
+frontend/dist/
+
+# Java build output
+target/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+.vscode/
